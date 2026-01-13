@@ -1,0 +1,39 @@
+{
+  "ticket": {
+    "id": "TKT-2024-0004",
+    "timestamp": "2024-01-15T11:02:56",
+    "priority": "critical",
+    "category": "network",
+    "status": "closed"
+  },
+  "submitter": {
+    "name": "Klaus Becker",
+    "email": "k.becker@stadtverwaltung.de",
+    "phone": "+49 30 9026 1567",
+    "department": "Ordnungsamt",
+    "location": "Ordnungsamt Charlottenburg"
+  },
+  "issue": {
+    "title": "Complete network outage in building",
+    "description": "Entire office has no network connectivity. Cannot access any systems. Internet down. Phone system down. Affecting 45 staff members. All work stopped.",
+    "technical_details": "All workstations show 'No Internet Access'. Cannot ping gateway (192.168.10.1). Switch status LEDs show amber on multiple ports. Main fiber link light is red. Possible ISP issue or switch failure."
+  },
+  "environment": {
+    "operating_system": "Windows 10 Pro",
+    "affected_software": "Multiple",
+    "hardware_type": "Multiple devices",
+    "ip_address": "192.168.10.0/24 subnet"
+  },
+  "assignment": {
+    "technician": "Thomas Weber",
+    "time_to_first_response_hours": 0.3,
+    "resolution_time_hours": 6.8,
+    "escalated": true,
+    "recurring_issue": false
+  },
+  "resolution": {
+    "user_satisfaction_rating": 3,
+    "notes": "Major switch failure. Core switch replaced. All services restored. Some packet loss during transition. ISP confirmed no issues on their end."
+  }
+}
+

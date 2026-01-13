@@ -1,0 +1,44 @@
+{
+  "application_type": "residence_permit",
+  "submission_date": "2008-07-25",
+  "application_reference": "RP-2008-HAN-01122",
+  "personal_information": {
+    "full_name": "Elena Aslan",
+    "date_of_birth": "1987-10-22",
+    "place_of_birth": {
+      "city": "Hanoi",
+      "country": "Vietnam"
+    },
+    "gender": "female",
+    "eye_color": "brown",
+    "marital_status": "single",
+    "religion": "buddhism"
+  },
+  "entry_details": {
+    "first_entry_date": "2008-07-25",
+    "purpose_of_stay": "study",
+    "intended_duration": "6_months"
+  },
+  "health_insurance": {
+    "provider": "DAK",
+    "policy_number": "DAK-2008-A-889145",
+    "status": "active"
+  },
+  "legal_history": {
+    "criminal_record": false,
+    "criminal_record_location": null,
+    "previous_deportation": false
+  },
+  "social_benefits": {
+    "receiving_benefits": false
+  },
+  "health_status": {
+    "has_medical_conditions": true,
+    "conditions": ["Rückenschmerzen"]
+  },
+  "integration": {
+    "integration_course_participation": false,
+    "course_status": null
+  }
+}
+

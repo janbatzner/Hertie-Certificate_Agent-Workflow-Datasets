@@ -1,0 +1,139 @@
+{
+  "description": "Image generation manifest for sample input data across all datasets",
+  "generated": "2026-01-13",
+  "images": [
+    {
+      "id": "dog_reg_01",
+      "path": "dog registration/inputs/images/dog_photo_tom_thompson.jpg",
+      "related_file": "dog registration/inputs/structured_01_tom_thompson.json",
+      "prompt": "A photograph of an American Staffordshire Terrier, muscular medium-sized dog with a broad head and short coat, brindle or solid color pattern. The dog is sitting calmly indoors on a hardwood floor in a modern German apartment. Natural lighting from a window, the dog is looking directly at the camera with alert ears. Pet photography style, sharp focus on the dog's face, slightly shallow depth of field blurring the background furniture."
+    },
+    {
+      "id": "dog_reg_02",
+      "path": "dog registration/inputs/images/dog_photo_lena_leander.jpg",
+      "related_file": "dog registration/inputs/structured_02_lena_leander.json",
+      "prompt": "A photograph of a white Bull Terrier with the distinctive egg-shaped head profile characteristic of the breed. The dog is standing in a garden setting, muscular body visible, approximately 70cm long and 45cm tall. The dog has a friendly expression with small triangular eyes. Outdoor natural lighting, green grass visible in the background, amateur pet photo style as if taken by the owner with a smartphone."
+    },
+    {
+      "id": "dog_reg_02_fence",
+      "path": "dog registration/inputs/images/fence_photo_lena_leander.jpg",
+      "related_file": "dog registration/inputs/structured_02_lena_leander.json",
+      "prompt": "A photograph of a secure garden fence in a German residential property, taken for official documentation purposes. The fence is a sturdy wooden or metal construction, approximately 1.8 meters tall, with no gaps that a medium-sized dog could squeeze through. The photo shows the fence from inside the garden, demonstrating its completeness and security. Daylight photography, documentary style."
+    },
+    {
+      "id": "dog_reg_03",
+      "path": "dog registration/inputs/images/dog_photo_mohammad_mueller.jpg",
+      "related_file": "dog registration/inputs/structured_03_mohammad_mueller.json",
+      "prompt": "A photograph of a large Rottweiler, black and tan markings with the distinctive rust-colored eyebrows and chest markings. The dog is a mature adult, approximately 95cm long and 63cm at the shoulder, weighing around 48kg with a powerful muscular build. The dog is lying on grass in a family home garden in Kiel, Germany, with a relaxed, friendly expression. Children's toys visible in the blurred background suggesting a family environment. Warm natural lighting, casual pet photo."
+    },
+    {
+      "id": "dog_reg_04",
+      "path": "dog registration/inputs/images/dog_photo_tina_turner.jpg",
+      "related_file": "dog registration/inputs/structured_04_tina_turner.json",
+      "prompt": "A portrait photograph of a Cavalier King Charles Spaniel, a small elegant toy spaniel with a silky coat in the classic Blenheim color pattern (chestnut and white). The dog has large round dark eyes, long floppy ears with feathering, and a sweet gentle expression. Small dog approximately 45cm long and 30cm tall. Indoor setting in a cozy Hamburg apartment, the dog is sitting on a sofa cushion. Soft warm lighting, high-quality pet portrait style."
+    },
+    {
+      "id": "dog_reg_05",
+      "path": "dog registration/inputs/images/dog_photo_kiara_kornblume.jpg",
+      "related_file": "dog registration/inputs/structured_05_kiara_kornblume.json",
+      "prompt": "A photograph of a French Bulldog (Französische Bulldogge), a compact muscular dog with bat-like ears and a flat face. The dog has a fawn or brindle coat, approximately 50cm long and 28cm tall, weighing around 11kg. The dog is young (about 2-3 years old) with a playful alert expression, sitting on a modern apartment floor in Essen, Germany. The characteristic wrinkled face and snub nose are clearly visible. Bright indoor lighting, casual smartphone photo style."
+    },
+    {
+      "id": "dog_reg_06",
+      "path": "dog registration/inputs/images/dog_photo_wilhelm_meier.jpg",
+      "related_file": "dog registration/inputs/unstructured_06_wilhelm_meier.md",
+      "prompt": "A veterinary clinic photograph of a Pug (Mops), a small compact dog with a wrinkled face, curly tail, and fawn-colored short coat. The dog is approximately 25cm long and 29cm tall, about 5 years old. The photo is taken on a stainless steel examination table in a veterinary practice, clinical lighting. The Pug has the characteristic black mask on its face and large round dark eyes with a friendly expression. Documentary medical photography style, professional lighting."
+    },
+    {
+      "id": "dog_reg_07",
+      "path": "dog registration/inputs/images/dog_photo_emine_al_rashid.jpg",
+      "related_file": "dog registration/inputs/unstructured_07_emine_al_rashid.md",
+      "prompt": "A photograph of a Hungarian Vizsla, an elegant medium-large hunting dog with a distinctive golden-rust short coat. The dog is athletic and lean, approximately 82cm long and 64cm at the shoulder, about 7 years old. The Vizsla has a noble head with long floppy ears and warm amber eyes. The dog is standing in a family living room in Dresden, Germany, with children's items visible in the background. Natural window lighting, casual family photo style."
+    },
+    {
+      "id": "dog_reg_08",
+      "path": "dog registration/inputs/images/dog_photo_amina_volkov.jpg",
+      "related_file": "dog registration/inputs/unstructured_08_amina_volkov.md",
+      "prompt": "A photograph of a Dobermann, a large elegant dog with a sleek black and tan coat, cropped ears (natural in Germany), and an alert intelligent expression. The dog is approximately 104cm long and 67cm at the shoulder, muscular and athletic build. The Dobermann is standing in a large garden in Hannover, Germany, with a secure fence visible in the background. The dog appears well-trained and attentive. Outdoor natural lighting, official documentation photo style."
+    },
+    {
+      "id": "dog_reg_08_fence",
+      "path": "dog registration/inputs/images/fence_photo_amina_volkov.jpg",
+      "related_file": "dog registration/inputs/unstructured_08_amina_volkov.md",
+      "prompt": "A photograph documenting a shoddy fence around a large garden property in Hannover, Germany, which should be suitable for containing a Dobermann but is in disrepair. The fence is tall (at least 1.8 meters), made of sturdy metal or reinforced wood, but has visible gaps or climbing aids and needs renovation. The photo shows a corner of the fence. Taken for official dangerous dog registration documentation, daylight, clear documentary style photography."
+    },
+    {
+      "id": "dog_reg_09",
+      "path": "dog registration/inputs/images/dog_photo_hassan_sokolov.jpg",
+      "related_file": "dog registration/inputs/unstructured_09_hassan_sokolov.md",
+      "prompt": "A color photograph of a small Yorkshire Terrier with the typical blue-tan (steel blue and golden tan) long silky coat. The tiny dog is approximately 20cm long and 23cm tall, well-groomed and in excellent condition. The Yorkshire Terrier is sitting on a patterned living room carpet in a Stuttgart apartment, looking at the camera with bright alert eyes and small V-shaped ears. The coat is long and flowing, parted down the middle. Warm indoor lighting, amateur pet photography as if taken by the owner for official registration."
+    },
+    {
+      "id": "dog_reg_10",
+      "path": "dog registration/inputs/images/dog_photo_giovanni_arslan.jpg",
+      "related_file": "dog registration/inputs/unstructured_10_giovanni_arslan.md",
+      "prompt": "A veterinary documentation photograph of a Shih Tzu, a small long-haired companion dog with a distinctive chrysanthemum-like face. The dog is approximately 27cm long and 23cm at the shoulder, about 7 years old, weight 6kg. The Shih Tzu has a flowing coat that may be white, gold, or mixed colors, with a pushed-in face and large dark eyes. Photo taken in a veterinary clinic in Düsseldorf for health certificate documentation, clinical lighting, the dog is standing on an examination table. Professional veterinary photography style."
+    },
+    {
+      "id": "speed_01",
+      "path": "speeding tickets/inputs/images/speed_camera_murat_becker.jpg",
+      "related_file": "speeding tickets/inputs/structured_01_murat_becker.json",
+      "prompt": "A German speed camera (Blitzer) photograph showing a Fiat Panda SUV from the front, captured at night (02:37) in rainy conditions on the B3 road through Celle. The image has the characteristic look of automated traffic enforcement photos: slightly grainy, flash-illuminated against dark background, raindrops visible. The German license plate M-U 5073 is clearly visible and illuminated. The timestamp and speed measurement overlay are visible in the corner. The photo shows motion blur suggesting high speed. Authentic German traffic enforcement camera style. The driver is visible and identifiable."
+    },
+    {
+      "id": "speed_02",
+      "path": "speeding tickets/inputs/images/speed_camera_ahmet_schmidt.jpg",
+      "related_file": "speeding tickets/inputs/structured_02_ahmet_schmidt.json",
+      "prompt": "A German Autobahn speed camera photograph showing an Opel Grandland estate car (Kombi) from the front, captured at 11:41 on the A95 highway direction Garmisch. Daytime shot with overcast/cloudy conditions, typical highway setting with guardrails visible. The German license plate D-P 7645 is clearly legible. Speed camera metadata overlay showing location and timestamp. The vehicle is in the left lane of the Autobahn. Authentic German traffic enforcement camera style, slightly washed out colors typical of these systems. The driver is visible and identifiable."
+    },
+    {
+      "id": "speed_03",
+      "path": "speeding tickets/inputs/images/speed_camera_isabella_neumann.jpg",
+      "related_file": "speeding tickets/inputs/structured_03_isabella_neumann.json",
+      "prompt": "A German speed camera photograph showing a Skoda Kodiaq (compact car type in records) from the fromt, captured at 14:42 in clear sunny conditions on the B17 near Landsberg am Lech, Bavaria. Bright daylight, good visibility, the German license plate MA-PQ 6083 is clearly visible. This is a high-speed violation photo (192 km/h captured). The image shows the typical quality of German traffic enforcement cameras with measurement data overlay. Rural Bundesstraße setting with countryside visible. The driver is visible but NOT identifiable, either blurry or obscured."
+    },
+    {
+      "id": "speed_04",
+      "path": "speeding tickets/inputs/images/speed_camera_burak_celik.jpg",
+      "related_file": "speeding tickets/inputs/structured_04_burak_celik.json",
+      "prompt": "A German speed camera photograph showing a Renault Clio sports car variant from the front, captured at 18:53 (evening) in light rain conditions on the B3 road through Celle town center (Ortsdurchfahrt). The 50 km/h zone is an urban area. The German license plate K-BW 4242 is clearly visible, wet road surface reflecting streetlights. Typical German traffic enforcement photo quality with timestamp and location data overlay. New Year's Eve date (31.12.2025). The driver is visible and identifiable."
+    },
+    {
+      "id": "speed_05",
+      "path": "speeding tickets/inputs/images/speed_camera_ahmet_saleh.jpg",
+      "related_file": "speeding tickets/inputs/structured_05_ahmet_saleh.json",
+      "prompt": "A German Autobahn speed camera photograph showing a Hyundai Santa Fe SUV from the front, captured at 18:58 in snowy winter conditions on the A7 highway direction Hannover. The image shows challenging visibility with snow, the vehicle traveling at high speed (181 km/h). German license plate DD-RR 1969 visible. Very high traffic density mentioned, other vehicles may be visible in adjacent lanes. Winter evening lighting with flash illumination. Speed camera metadata overlay. Dangerous driving conditions evident in the photo. The driver is visible and identifiable."
+    },
+    {
+      "id": "speed_06",
+      "path": "speeding tickets/inputs/images/speed_camera_nina_celik.jpg",
+      "related_file": "speeding tickets/inputs/unstructured_06_nina_celik.md",
+      "prompt": "A German speed camera photograph showing a Toyota Yaris sports car variant from the front, captured at 15:05 in snowy winter conditions on the A4 highway direction Dresden at km 178. The German license plate L-DG 1373 is clearly visible. Daytime shot but with medium visibility due to snowfall, the ES 8.0 speed measurement sensor system watermark visible. Speed measurement data showing 125 km/h in an 80 km/h zone. Typical German traffic enforcement camera quality and style. The driver is visible but NOT identifiable, either blurry or obscured.."
+    },
+    {
+      "id": "speed_07",
+      "path": "speeding tickets/inputs/images/IMG-VPI-2025-05-27-211455-001.jpg",
+      "related_file": "speeding tickets/inputs/unstructured_07_ayse_khalil.md",
+      "prompt": "A German TraffiStar S350 speed camera photograph showing a dark blue Ford Fiesta compact car from the front, captured at 21:14:55 (dusk/evening) on the A4 Autobahn direction Dresden at km 178. The German license plate D-DL 5583 is clearly visible and illuminated by the flash. The vehicle is in the left lane traveling at extreme speed (200 km/h). Dusk lighting conditions with flash illumination creating the characteristic bright-on-dark contrast of nighttime speed camera photos. Camera calibration and timestamp metadata visible in the overlay. Professional German traffic enforcement system photography. The driver is visible and identifiable."
+    },
+    {
+      "id": "speed_08",
+      "path": "speeding tickets/inputs/images/speed_camera_david_rossi.jpg",
+      "related_file": "speeding tickets/inputs/unstructured_08_david_rossi.md",
+      "prompt": "A German speed camera evidence photograph (Beweisfoto) showing a Skoda Kamiq estate car (Kombi) from the front, captured at 11:49 in light rain conditions on the B27 between Stuttgart and Tübingen. Daytime with reduced visibility due to rain, wet road surface visible. The German license plate HB-AT 7324 is clearly legible. This is an official evidence photo for an Anhörungsbogen (hearing questionnaire), showing typical German traffic enforcement camera quality. Speed measurement overlay showing 179 km/h in a 120 km/h zone. The driver is visible but NOT identifiable, either blurry or obscured."
+    },
+    {
+      "id": "speed_09",
+      "path": "speeding tickets/inputs/images/speed_camera_anastasia_dogan.jpg",
+      "related_file": "speeding tickets/inputs/unstructured_09_anastasia_dogan.md",
+      "prompt": "A German speed camera photograph showing a BMW X1 SUV from the front, captured at 01:59 (late night/early morning) in foggy conditions on the B27 between Stuttgart and Tübingen. Nighttime shot with very limited visibility due to fog, flash illumination creating haze in the image. The German license plate HL-C 2296 is visible but the foggy conditions affect overall image clarity. This is the contested evidence photo in an appeal case - the fog and poor conditions are evident. Low traffic, isolated vehicle on the road. German traffic enforcement camera style with timestamp overlay. The driver is visible but NOT identifiable, either blurry or obscured.."
+    },
+    {
+      "id": "speed_10",
+      "path": "speeding tickets/inputs/images/speed_camera_sofia_garcia.jpg",
+      "related_file": "speeding tickets/inputs/unstructured_10_sofia_garcia.md",
+      "prompt": "A German speed camera photograph showing a Skoda Octavia sedan (Limousine) from the front only - importantly, no driver identification possible from this angle. Captured at 20:01 (evening) in cloudy but clear conditions on the B1 road through Paderborn town center (Ortsdurchfahrt). The German license plate B-QX 3635 is clearly visible. This is a 30 km/h urban zone, the photo shows typical town infrastructure. Evening lighting with flash. This photo is evidence in an appeal case where driver identification is contested - the front-only angle is significant. German traffic enforcement camera quality. The driver is visible but NOT identifiable, either blurry or obscured.."
+    }
+  ]
+}
+

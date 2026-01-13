@@ -1,0 +1,44 @@
+{
+  "application_type": "residence_permit",
+  "submission_date": "2021-06-03",
+  "application_reference": "RP-2021-LAG-00478",
+  "personal_information": {
+    "full_name": "Noura Khalil",
+    "date_of_birth": "1995-09-23",
+    "place_of_birth": {
+      "city": "Lagos",
+      "country": "Nigeria"
+    },
+    "gender": "female",
+    "eye_color": "hazel",
+    "marital_status": "divorced",
+    "religion": "evangelical"
+  },
+  "entry_details": {
+    "first_entry_date": "2021-06-03",
+    "purpose_of_stay": "employment",
+    "intended_duration": "6_months"
+  },
+  "health_insurance": {
+    "provider": "AOK",
+    "policy_number": "AOK-2021-K-112847",
+    "status": "active"
+  },
+  "legal_history": {
+    "criminal_record": false,
+    "criminal_record_location": null,
+    "previous_deportation": false
+  },
+  "social_benefits": {
+    "receiving_benefits": true
+  },
+  "health_status": {
+    "has_medical_conditions": true,
+    "conditions": ["Herzerkrankung"]
+  },
+  "integration": {
+    "integration_course_participation": true,
+    "course_status": "in_progress"
+  }
+}
+

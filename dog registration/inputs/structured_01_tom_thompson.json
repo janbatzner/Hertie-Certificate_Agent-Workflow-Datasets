@@ -1,0 +1,46 @@
+{
+  "submission": {
+    "timestamp": "2025-12-29T16:49:48",
+    "form_version": "2.1",
+    "locale": "de-DE"
+  },
+  "contact": {
+    "full_name": "Tom Thompson",
+    "email": "tom.thompson@gmx.de",
+    "registration_address": {
+      "street": "Am Schnellen Bach 36",
+      "postal_code": "80636",
+      "city": "München",
+      "country": "Germany"
+    }
+  },
+  "dog": {
+    "breed": "American Staffordshire Terrier",
+    "size_cm": {
+      "length": 75,
+      "height": 46
+    },
+    "weight_kg": 28,
+    "date_of_birth": "2020-03-15",
+    "is_dangerous_category": true
+  },
+  "insurance": {
+    "has_insurance": false,
+    "provider": null,
+    "policy_details": null
+  },
+  "vaccines": {
+    "status": "unclear",
+    "records": []
+  },
+  "attachments": {
+    "dog_photo": null,
+    "fence_photo": null
+  },
+  "housing": {
+    "type": "apartment",
+    "fence_description": "The dog is always indoors, no fence needed."
+  },
+  "additional_remarks": null
+}
+

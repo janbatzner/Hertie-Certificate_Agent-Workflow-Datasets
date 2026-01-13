@@ -1,0 +1,56 @@
+{
+  "violation_record": {
+    "timestamp": "2025-08-28T14:42:49",
+    "reference_number": "BV-2025-LL-05643",
+    "status": "closed",
+    "payment_status": "paid"
+  },
+  "location": {
+    "description": "B17 Landsberg am Lech",
+    "road_type": "Bundesstraße",
+    "municipality": "Landsberg am Lech",
+    "federal_state": "Bayern"
+  },
+  "speed_data": {
+    "speed_limit_kmh": 120,
+    "measured_speed_kmh": 192,
+    "excess_speed_kmh": 72
+  },
+  "vehicle": {
+    "license_plate": "MA-PQ 6083",
+    "make": "Skoda",
+    "model": "Kodiaq",
+    "type": "Kleinwagen"
+  },
+  "registered_owner": {
+    "name": "Isabella Neumann",
+    "date_of_birth": "1982-08-12",
+    "gender": "female",
+    "address": {
+      "street": "Parkstraße 107",
+      "postal_code": "60311",
+      "city": "Frankfurt"
+    }
+  },
+  "driver": {
+    "name": null,
+    "date_of_birth": null,
+    "gender": null,
+    "identified": false
+  },
+  "conditions": {
+    "weather": "clear",
+    "visibility": "good",
+    "traffic_density": "medium"
+  },
+  "penalty": {
+    "fine_eur": 535,
+    "points": 2,
+    "driving_ban_months": 3
+  },
+  "appeal": {
+    "filed": false,
+    "status": null
+  }
+}
+

@@ -1,0 +1,44 @@
+{
+  "application_type": "residence_permit",
+  "submission_date": "2013-11-20",
+  "application_reference": "RP-2013-LIM-02341",
+  "personal_information": {
+    "full_name": "Bilal Koç",
+    "date_of_birth": "1957-08-13",
+    "place_of_birth": {
+      "city": "Lima",
+      "country": "Peru"
+    },
+    "gender": "male",
+    "eye_color": "brown",
+    "marital_status": "single",
+    "religion": "christianity"
+  },
+  "entry_details": {
+    "first_entry_date": "2013-11-20",
+    "purpose_of_stay": "asylum",
+    "intended_duration": "1_year"
+  },
+  "health_insurance": {
+    "provider": "Private Versicherung",
+    "policy_number": "PV-2013-K-445782",
+    "status": "active"
+  },
+  "legal_history": {
+    "criminal_record": false,
+    "criminal_record_location": null,
+    "previous_deportation": false
+  },
+  "social_benefits": {
+    "receiving_benefits": false
+  },
+  "health_status": {
+    "has_medical_conditions": false,
+    "conditions": []
+  },
+  "integration": {
+    "integration_course_participation": false,
+    "course_status": null
+  }
+}
+
