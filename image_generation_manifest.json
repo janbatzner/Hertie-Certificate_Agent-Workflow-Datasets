@@ -60,7 +60,7 @@
       "id": "dog_reg_08_fence",
       "path": "dog registration/inputs/images/fence_photo_amina_volkov.jpg",
       "related_file": "dog registration/inputs/unstructured_08_amina_volkov.md",
-      "prompt": "A photograph documenting a secure fence around a large garden property in Hannover, Germany, suitable for containing a Dobermann. The fence is tall (at least 1.8 meters), made of sturdy metal or reinforced wood, with no gaps or climbing aids. The photo shows a corner of the fence demonstrating the secure construction and gate mechanism. Taken for official dangerous dog registration documentation, daylight, clear documentary style photography."
+      "prompt": "A photograph documenting a shoddy fence around a large garden property in Hannover, Germany, which should be suitable for containing a Dobermann but is in disrepair. The fence is tall (at least 1.8 meters), made of sturdy metal or reinforced wood, but has visible gaps or climbing aids and needs renovation. The photo shows a corner of the fence. Taken for official dangerous dog registration documentation, daylight, clear documentary style photography."
     },
     {
       "id": "dog_reg_09",
@@ -78,61 +78,61 @@
       "id": "speed_01",
       "path": "speeding tickets/inputs/images/speed_camera_murat_becker.jpg",
       "related_file": "speeding tickets/inputs/structured_01_murat_becker.json",
-      "prompt": "A German speed camera (Blitzer) photograph showing a Fiat Panda SUV from the rear, captured at night (02:37) in rainy conditions on the B3 road through Celle. The image has the characteristic look of automated traffic enforcement photos: slightly grainy, flash-illuminated against dark background, raindrops visible. The German license plate M-U 5073 is clearly visible and illuminated. The timestamp and speed measurement overlay are visible in the corner. The photo shows motion blur suggesting high speed. Authentic German traffic enforcement camera style."
+      "prompt": "A German speed camera (Blitzer) photograph showing a Fiat Panda SUV from the front, captured at night (02:37) in rainy conditions on the B3 road through Celle. The image has the characteristic look of automated traffic enforcement photos: slightly grainy, flash-illuminated against dark background, raindrops visible. The German license plate M-U 5073 is clearly visible and illuminated. The timestamp and speed measurement overlay are visible in the corner. The photo shows motion blur suggesting high speed. Authentic German traffic enforcement camera style. The driver is visible and identifiable."
     },
     {
       "id": "speed_02",
       "path": "speeding tickets/inputs/images/speed_camera_ahmet_schmidt.jpg",
       "related_file": "speeding tickets/inputs/structured_02_ahmet_schmidt.json",
-      "prompt": "A German Autobahn speed camera photograph showing an Opel Grandland estate car (Kombi) from the rear, captured at 11:41 on the A95 highway direction Garmisch. Daytime shot with overcast/cloudy conditions, typical highway setting with guardrails visible. The German license plate D-P 7645 is clearly legible. Speed camera metadata overlay showing location and timestamp. The vehicle is in the left lane of the Autobahn. Authentic German traffic enforcement camera style, slightly washed out colors typical of these systems."
+      "prompt": "A German Autobahn speed camera photograph showing an Opel Grandland estate car (Kombi) from the front, captured at 11:41 on the A95 highway direction Garmisch. Daytime shot with overcast/cloudy conditions, typical highway setting with guardrails visible. The German license plate D-P 7645 is clearly legible. Speed camera metadata overlay showing location and timestamp. The vehicle is in the left lane of the Autobahn. Authentic German traffic enforcement camera style, slightly washed out colors typical of these systems. The driver is visible and identifiable."
     },
     {
       "id": "speed_03",
       "path": "speeding tickets/inputs/images/speed_camera_isabella_neumann.jpg",
       "related_file": "speeding tickets/inputs/structured_03_isabella_neumann.json",
-      "prompt": "A German speed camera photograph showing a Skoda Kodiaq (compact car type in records) from the rear, captured at 14:42 in clear sunny conditions on the B17 near Landsberg am Lech, Bavaria. Bright daylight, good visibility, the German license plate MA-PQ 6083 is clearly visible. This is a high-speed violation photo (192 km/h captured). The image shows the typical quality of German traffic enforcement cameras with measurement data overlay. Rural Bundesstraße setting with countryside visible."
+      "prompt": "A German speed camera photograph showing a Skoda Kodiaq (compact car type in records) from the fromt, captured at 14:42 in clear sunny conditions on the B17 near Landsberg am Lech, Bavaria. Bright daylight, good visibility, the German license plate MA-PQ 6083 is clearly visible. This is a high-speed violation photo (192 km/h captured). The image shows the typical quality of German traffic enforcement cameras with measurement data overlay. Rural Bundesstraße setting with countryside visible. The driver is visible but NOT identifiable, either blurry or obscured."
     },
     {
       "id": "speed_04",
       "path": "speeding tickets/inputs/images/speed_camera_burak_celik.jpg",
       "related_file": "speeding tickets/inputs/structured_04_burak_celik.json",
-      "prompt": "A German speed camera photograph showing a Renault Clio sports car variant from the rear, captured at 18:53 (evening) in light rain conditions on the B3 road through Celle town center (Ortsdurchfahrt). The 50 km/h zone is an urban area. The German license plate K-BW 4242 is clearly visible, wet road surface reflecting streetlights. Typical German traffic enforcement photo quality with timestamp and location data overlay. New Year's Eve date (31.12.2025)."
+      "prompt": "A German speed camera photograph showing a Renault Clio sports car variant from the front, captured at 18:53 (evening) in light rain conditions on the B3 road through Celle town center (Ortsdurchfahrt). The 50 km/h zone is an urban area. The German license plate K-BW 4242 is clearly visible, wet road surface reflecting streetlights. Typical German traffic enforcement photo quality with timestamp and location data overlay. New Year's Eve date (31.12.2025). The driver is visible and identifiable."
     },
     {
       "id": "speed_05",
       "path": "speeding tickets/inputs/images/speed_camera_ahmet_saleh.jpg",
       "related_file": "speeding tickets/inputs/structured_05_ahmet_saleh.json",
-      "prompt": "A German Autobahn speed camera photograph showing a Hyundai Santa Fe SUV from the rear, captured at 18:58 in snowy winter conditions on the A7 highway direction Hannover. The image shows challenging visibility with snow, the vehicle traveling at high speed (181 km/h). German license plate DD-RR 1969 visible. Very high traffic density mentioned, other vehicles may be visible in adjacent lanes. Winter evening lighting with flash illumination. Speed camera metadata overlay. Dangerous driving conditions evident in the photo."
+      "prompt": "A German Autobahn speed camera photograph showing a Hyundai Santa Fe SUV from the front, captured at 18:58 in snowy winter conditions on the A7 highway direction Hannover. The image shows challenging visibility with snow, the vehicle traveling at high speed (181 km/h). German license plate DD-RR 1969 visible. Very high traffic density mentioned, other vehicles may be visible in adjacent lanes. Winter evening lighting with flash illumination. Speed camera metadata overlay. Dangerous driving conditions evident in the photo. The driver is visible and identifiable."
     },
     {
       "id": "speed_06",
       "path": "speeding tickets/inputs/images/speed_camera_nina_celik.jpg",
       "related_file": "speeding tickets/inputs/unstructured_06_nina_celik.md",
-      "prompt": "A German speed camera photograph showing a Toyota Yaris sports car variant from the rear, captured at 15:05 in snowy winter conditions on the A4 highway direction Dresden at km 178. The German license plate L-DG 1373 is clearly visible. Daytime shot but with medium visibility due to snowfall, the ES 8.0 speed measurement sensor system watermark visible. Speed measurement data showing 125 km/h in an 80 km/h zone. Typical German traffic enforcement camera quality and style."
+      "prompt": "A German speed camera photograph showing a Toyota Yaris sports car variant from the front, captured at 15:05 in snowy winter conditions on the A4 highway direction Dresden at km 178. The German license plate L-DG 1373 is clearly visible. Daytime shot but with medium visibility due to snowfall, the ES 8.0 speed measurement sensor system watermark visible. Speed measurement data showing 125 km/h in an 80 km/h zone. Typical German traffic enforcement camera quality and style. The driver is visible but NOT identifiable, either blurry or obscured.."
     },
     {
       "id": "speed_07",
       "path": "speeding tickets/inputs/images/IMG-VPI-2025-05-27-211455-001.jpg",
       "related_file": "speeding tickets/inputs/unstructured_07_ayse_khalil.md",
-      "prompt": "A German TraffiStar S350 speed camera photograph showing a dark blue Ford Fiesta compact car from the rear, captured at 21:14:55 (dusk/evening) on the A4 Autobahn direction Dresden at km 178. The German license plate D-DL 5583 is clearly visible and illuminated by the flash. The vehicle is in the left lane traveling at extreme speed (200 km/h). Dusk lighting conditions with flash illumination creating the characteristic bright-on-dark contrast of nighttime speed camera photos. Camera calibration and timestamp metadata visible in the overlay. Professional German traffic enforcement system photography."
+      "prompt": "A German TraffiStar S350 speed camera photograph showing a dark blue Ford Fiesta compact car from the front, captured at 21:14:55 (dusk/evening) on the A4 Autobahn direction Dresden at km 178. The German license plate D-DL 5583 is clearly visible and illuminated by the flash. The vehicle is in the left lane traveling at extreme speed (200 km/h). Dusk lighting conditions with flash illumination creating the characteristic bright-on-dark contrast of nighttime speed camera photos. Camera calibration and timestamp metadata visible in the overlay. Professional German traffic enforcement system photography. The driver is visible and identifiable."
     },
     {
       "id": "speed_08",
       "path": "speeding tickets/inputs/images/speed_camera_david_rossi.jpg",
       "related_file": "speeding tickets/inputs/unstructured_08_david_rossi.md",
-      "prompt": "A German speed camera evidence photograph (Beweisfoto) showing a Skoda Kamiq estate car (Kombi) from the rear, captured at 11:49 in light rain conditions on the B27 between Stuttgart and Tübingen. Daytime with reduced visibility due to rain, wet road surface visible. The German license plate HB-AT 7324 is clearly legible. This is an official evidence photo for an Anhörungsbogen (hearing questionnaire), showing typical German traffic enforcement camera quality. Speed measurement overlay showing 179 km/h in a 120 km/h zone."
+      "prompt": "A German speed camera evidence photograph (Beweisfoto) showing a Skoda Kamiq estate car (Kombi) from the front, captured at 11:49 in light rain conditions on the B27 between Stuttgart and Tübingen. Daytime with reduced visibility due to rain, wet road surface visible. The German license plate HB-AT 7324 is clearly legible. This is an official evidence photo for an Anhörungsbogen (hearing questionnaire), showing typical German traffic enforcement camera quality. Speed measurement overlay showing 179 km/h in a 120 km/h zone. The driver is visible but NOT identifiable, either blurry or obscured."
     },
     {
       "id": "speed_09",
       "path": "speeding tickets/inputs/images/speed_camera_anastasia_dogan.jpg",
       "related_file": "speeding tickets/inputs/unstructured_09_anastasia_dogan.md",
-      "prompt": "A German speed camera photograph showing a BMW X1 SUV from the rear, captured at 01:59 (late night/early morning) in foggy conditions on the B27 between Stuttgart and Tübingen. Nighttime shot with very limited visibility due to fog, flash illumination creating haze in the image. The German license plate HL-C 2296 is visible but the foggy conditions affect overall image clarity. This is the contested evidence photo in an appeal case - the fog and poor conditions are evident. Low traffic, isolated vehicle on the road. German traffic enforcement camera style with timestamp overlay."
+      "prompt": "A German speed camera photograph showing a BMW X1 SUV from the front, captured at 01:59 (late night/early morning) in foggy conditions on the B27 between Stuttgart and Tübingen. Nighttime shot with very limited visibility due to fog, flash illumination creating haze in the image. The German license plate HL-C 2296 is visible but the foggy conditions affect overall image clarity. This is the contested evidence photo in an appeal case - the fog and poor conditions are evident. Low traffic, isolated vehicle on the road. German traffic enforcement camera style with timestamp overlay. The driver is visible but NOT identifiable, either blurry or obscured.."
     },
     {
       "id": "speed_10",
       "path": "speeding tickets/inputs/images/speed_camera_sofia_garcia.jpg",
       "related_file": "speeding tickets/inputs/unstructured_10_sofia_garcia.md",
-      "prompt": "A German speed camera photograph showing a Skoda Octavia sedan (Limousine) from the rear only - importantly, no driver identification possible from this angle. Captured at 20:01 (evening) in cloudy but clear conditions on the B1 road through Paderborn town center (Ortsdurchfahrt). The German license plate B-QX 3635 is clearly visible. This is a 30 km/h urban zone, the photo shows typical town infrastructure. Evening lighting with flash. This photo is evidence in an appeal case where driver identification is contested - the rear-only angle is significant. German traffic enforcement camera quality."
+      "prompt": "A German speed camera photograph showing a Skoda Octavia sedan (Limousine) from the front only - importantly, no driver identification possible from this angle. Captured at 20:01 (evening) in cloudy but clear conditions on the B1 road through Paderborn town center (Ortsdurchfahrt). The German license plate B-QX 3635 is clearly visible. This is a 30 km/h urban zone, the photo shows typical town infrastructure. Evening lighting with flash. This photo is evidence in an appeal case where driver identification is contested - the front-only angle is significant. German traffic enforcement camera quality. The driver is visible but NOT identifiable, either blurry or obscured.."
     }
   ]
 }
