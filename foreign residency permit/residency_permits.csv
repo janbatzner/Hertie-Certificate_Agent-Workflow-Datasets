@@ -1,0 +1,121 @@
+Name,Geburtsdatum,Geburtsort,Geschlecht,Augenfarbe,Verheiratet,Religion (optional),Erste Einreise/Ankunftsdatum,Aufenthaltszweck,Krankenversicherung,Rechtsverstöße festgestellt?,Wenn ja: Deutschland oder Ausland?,Bereits abgeschoben?,Nehmen Sie Sozialleistungen in Anspruch?,Krankheiten?,Beabsichtigte Dauer des Aufenthalts,Teilnahme an Integrationskurs?
+Laila Wang,02.10.1999,"Shanghai, China",Weiblich,Grau,Nein,Keine Angabe,18.04.2024,Familie,IKK,Nein,,Nein,Nein,Depression,5 Jahre,Ja
+Maria Torres,23.02.1985,"Moskau, Russland",Weiblich,Grün,Nein,Christentum,03.03.2006,Asyl,Ausstehend,Ja,Deutschland und Ausland,Nein,Ja,,3 Jahre,Ja
+Bilal Koç,13.08.1957,"Lima, Peru",Männlich,Braun,Nein,Christentum,20.11.2013,Asyl,Private Versicherung,Nein,,Nein,Nein,,1 Jahr,Nein
+Elena Aslan,22.10.1987,"Hanoi, Vietnam",Weiblich,Braun,Nein,Buddhismus,25.07.2008,Studium,DAK,Nein,,Nein,Nein,Rückenschmerzen,6 Monate,Nein
+Noura Khalil,23.09.1995,"Lagos, Nigeria",Weiblich,Haselnuss,Geschieden,Evangelisch,03.06.2021,Job,AOK,Nein,,Nein,Ja,Herzerkrankung,6 Monate,Laufend
+Ana Singh,16.04.1968,"Istanbul, Türkei",Weiblich,Braun,Ja,Katholisch,06.10.1987,Studium,HEK,Nein,,Nein,Ja,Allergien,2 Jahre,Nein
+Tariq Sesay,09.01.1989,"Karachi, Pakistan",Männlich,Haselnuss,Ja,Hinduismus,05.07.2008,Studium,HEK,Nein,,Nein,Nein,,2 Jahre,Laufend
+Thi Saleh,03.02.1969,"Tunis, Tunesien",Weiblich,Braun,Geschieden,Katholisch,24.11.2019,Studium,Keine,Nein,,Nein,Nein,,1 Jahr,Nein
+Khalid Yıldız,01.05.1983,"Hanoi, Vietnam",Männlich,Grün,Nein,Islam,02.05.2017,Job,HEK,Nein,,Nein,Ja,Depression,5 Jahre,Nein
+Kumar Diallo,09.07.1979,"Dhaka, Bangladesch",Männlich,Grün,Nein,Keine Angabe,10.06.2001,Sonstige,IKK,Nein,,Nein,Nein,,Unbefristet,Nein
+Aisha Traore,06.01.1978,"Kinshasa, Kongo",Weiblich,Grün,Geschieden,Hinduismus,25.01.2003,Asyl,AOK,Ja,Ausland,Nein,Ja,,2 Jahre,Ja
+Olga Al-Rashid,17.05.1994,"Lima, Peru",Weiblich,Grau,Geschieden,Judentum,25.09.2016,Studium,TK,Nein,,Nein,Nein,Herzerkrankung,5 Jahre,Nein
+Pavel Liu,20.11.1959,"Mumbai, Indien",Männlich,Dunkelbraun,Verwitwet,Christentum,03.01.1986,Job,BKK,Nein,,Nein,Nein,Keine Angaben,6 Monate,Nein
+Rania Öztürk,07.10.1982,"Dhaka, Bangladesch",Weiblich,Braun,Ja,Judentum,07.09.2022,Job,TK,Ja,Deutschland,Nein,Nein,Herzerkrankung,Unbefristet,Ja
+Raj Diallo,17.08.1974,"Amman, Jordanien",Männlich,Grün,Nein,Hinduismus,05.03.1994,Asyl,TK,Nein,,Ja,Ja,Keine Angaben,Temporär,Ja
+Yulia Doğan,11.06.1985,"Mumbai, Indien",Weiblich,Grau,Verwitwet,Buddhismus,05.04.2020,Studium,Barmer,Nein,,Nein,Ja,Rückenschmerzen,2 Jahre,Ja
+Luis Mensah,10.03.1970,"Cairo, Ägypten",Männlich,Grau,Verwitwet,Keine Angabe,07.02.2024,Job,TK,Nein,,Ja,Nein,,2 Jahre,Nein
+Eshe Liu,05.08.1958,"Cairo, Ägypten",Weiblich,Schwarz,Geschieden,Evangelisch,27.06.1984,Sonstige,Barmer,Nein,,Nein,Nein,Rückenschmerzen,Bis Studienende,Nein
+Ayo Martinez,15.07.1989,"Addis Abeba, Äthiopien",Weiblich,Braun,Nein,,17.10.2020,Studium,IKK,Nein,,Nein,Nein,Chronische Bronchitis,3 Jahre,Nein
+Ayana Bangura,06.05.1990,"Beirut, Libanon",Weiblich,Grau,Ja,Buddhismus,14.07.2022,Job,HEK,Nein,,Nein,Ja,,Temporär,Nein
+Katya Özkan,17.02.1971,"Bogota, Kolumbien",Weiblich,Braun,Verwitwet,Keine Angabe,15.07.1989,Asyl,TK,Nein,,Ja,Nein,Allergien,5 Jahre,Nein
+Kofi Singh,21.02.1974,"Tirana, Albanien",Männlich,Grün,Nein,Islam,21.01.2017,Asyl,BKK,Nein,,Nein,Ja,Bluthochdruck,Unbefristet,Laufend
+Luis Patel,09.08.2002,"Baghdad, Irak",Männlich,Braun,Verwitwet,Judentum,07.04.2023,Asyl,TK,Nein,,Nein,Ja,Allergien,Bis Studienende,Ja
+Miguel Liu,09.12.2004,"Baghdad, Irak",Männlich,Schwarz,Nein,,17.10.2023,Sonstige,Private Versicherung,Ja,Deutschland,Nein,Nein,Rückenschmerzen,Dauerhaft,Nein
+Gül Kuznetsov,05.05.2007,"Lima, Peru",Weiblich,Braun,Geschieden,Katholisch,03.05.2025,Studium,Keine,Nein,,Nein,Ja,Keine Angaben,3 Jahre,Nein
+Salma Aslan,01.10.2005,"Kampala, Uganda",Weiblich,Schwarz,Nein,Christentum,26.05.2025,Job,Keine,Nein,,Nein,Nein,Keine Angaben,Temporär,Nein
+Can Amin,16.12.1979,"São Paulo, Brasilien",Männlich,Blau,Ja,Orthodox,11.09.2014,Studium,HEK,Nein,,Nein,Nein,,1 Jahr,Nein
+Yasemin Torres,05.07.1990,"Manila, Philippinen",Weiblich,Braun,Geschieden,Katholisch,16.05.2010,Studium,DAK,Nein,,Nein,Ja,Bluthochdruck,5 Jahre,Laufend
+Lakshmi Volkov,12.04.1993,"Beijing, China",Weiblich,Haselnuss,Ja,Keine Angabe,01.08.2025,Job,Keine,Ja,Deutschland,Nein,Ja,Chronische Bronchitis,3 Jahre,Nein
+Ali Özkan,22.04.1988,"Warschau, Polen",Männlich,Haselnuss,Ja,Hinduismus,27.07.2012,Familie,Private Versicherung,Nein,,Nein,Nein,Allergien,Bis Studienende,Nein
+Mei Hamdan,20.01.1959,"Istanbul, Türkei",Weiblich,Blau,Nein,Keine Angabe,20.03.2016,Sonstige,Ausstehend,Nein,,Nein,Nein,,Dauerhaft,Laufend
+Baris Kamara,05.05.1992,"Bukarest, Rumänien",Männlich,Braun,Geschieden,,27.09.2015,Studium,BKK,Ja,Deutschland,Nein,Ja,Asthma,Bis Studienende,Ja
+Imani Chen,16.03.1985,"Tehran, Iran",Weiblich,Haselnuss,Nein,Keine Angabe,10.07.2010,Sonstige,Keine,Nein,,Nein,Nein,Allergien,6 Monate,Ja
+Onur Garcia,17.06.1972,"Jakarta, Indonesien",Männlich,Dunkelbraun,Nein,Evangelisch,28.06.2022,Studium,IKK,Nein,,Ja,Nein,,1 Jahr,Nein
+Marco Chen,05.12.1968,"Damascus, Syrien",Männlich,Grün,Nein,Evangelisch,07.08.2022,Studium,Private Versicherung,Nein,,Nein,Nein,Bluthochdruck,Bis Studienende,Nein
+Ana Saleh,10.02.1996,"Kiev, Ukraine",Weiblich,Blau,Ja,Keine Angabe,10.12.2020,Asyl,Barmer,Nein,,Nein,Ja,Asthma,6 Monate,Nein
+Katya Nguyen,03.12.1999,"Warschau, Polen",Weiblich,Dunkelbraun,Verwitwet,Orthodox,08.06.2020,Sonstige,IKK,Nein,,Nein,Nein,Diabetes,Bis Studienende,Nein
+Carmen Çetin,27.05.2004,"Ankara, Türkei",Weiblich,Schwarz,Nein,Evangelisch,14.07.2024,Familie,AOK,Nein,,Nein,Ja,,Unbefristet,Nein
+Raj Kumar,27.03.2003,"Moskau, Russland",Männlich,Blau,Nein,Islam,03.01.2023,Job,Private Versicherung,Nein,,Ja,Nein,Keine Angaben,2 Jahre,Ja
+Aylin Wang,11.12.1982,"Kabul, Afghanistan",Weiblich,Grün,Nein,Katholisch,02.06.2024,Job,AOK,Nein,,Nein,Nein,,6 Monate,Nein
+Chioma Al-Najjar,24.02.1986,"Beirut, Libanon",Weiblich,Grün,Verwitwet,Islam,06.10.2010,Sonstige,TK,Nein,,Ja,Ja,Allergien,3 Jahre,Ja
+Diego Amin,23.07.1977,"Belgrad, Serbien",Männlich,Haselnuss,Ja,Orthodox,05.06.2016,Sonstige,Keine,Nein,,Nein,Ja,,Dauerhaft,Ja
+Ebru Popov,13.12.1959,"Istanbul, Türkei",Weiblich,Grau,Nein,,27.05.1997,Familie,Private Versicherung,Nein,,Nein,Nein,Keine Angaben,5 Jahre,Nein
+Jun Sharma,11.11.1988,"Delhi, Indien",Männlich,Haselnuss,Verwitwet,Christentum,18.11.2025,Sonstige,AOK,Nein,,Nein,Nein,Depression,1 Jahr,Ja
+Amina Bangura,07.09.1981,"Baghdad, Irak",Weiblich,Dunkelbraun,Verwitwet,Orthodox,28.11.2015,Job,TK,Nein,,Nein,Nein,,Bis Studienende,Nein
+Fernando Şahin,18.12.1974,"Mumbai, Indien",Männlich,Blau,Verwitwet,,12.05.2023,Job,Private Versicherung,Ja,Deutschland und Ausland,Nein,Nein,Rückenschmerzen,Bis Studienende,Nein
+Amara Liu,22.07.1979,"Manila, Philippinen",Weiblich,Dunkelbraun,Ja,Hinduismus,11.09.2020,Studium,Private Versicherung,Ja,Ausland,Nein,Ja,,Unbefristet,Ja
+Merve Al-Rashid,12.12.1976,"Lagos, Nigeria",Weiblich,Schwarz,Geschieden,Islam,11.09.2025,Sonstige,Barmer,Ja,Deutschland und Ausland,Nein,Nein,Diabetes,1 Jahr,Ja
+Hana Wojcik,04.04.1960,"Moskau, Russland",Weiblich,Schwarz,Nein,Buddhismus,17.11.2007,Familie,TK,Nein,,Nein,Nein,Asthma,3 Jahre,Nein
+Amara Silva,09.04.1965,"Cairo, Ägypten",Weiblich,Braun,Nein,Keine Angabe,06.07.2024,Sonstige,Ausstehend,Nein,,Nein,Nein,,Bis Studienende,Nein
+Defne Liu,10.07.2000,"Kinshasa, Kongo",Weiblich,Braun,Geschieden,Christentum,30.11.2020,Sonstige,IKK,Nein,,Nein,Nein,,2 Jahre,Ja
+Zeynep Hussein,16.01.1993,"Buenos Aires, Argentinien",Weiblich,Haselnuss,Verwitwet,Islam,26.03.2017,Studium,BKK,Nein,,Ja,Nein,Depression,5 Jahre,Ja
+Merve Özkan,18.01.1984,"Cairo, Ägypten",Weiblich,Blau,Geschieden,Evangelisch,03.11.2008,Asyl,Keine,Ja,Ausland,Nein,Ja,,Dauerhaft,Nein
+Hüseyin Al-Najjar,27.11.2005,"Dhaka, Bangladesch",Männlich,Grün,Verwitwet,Hinduismus,26.01.2024,Studium,BKK,Nein,,Nein,Nein,,Dauerhaft,Ja
+Nikolai Liu,19.06.2004,"Karachi, Pakistan",Männlich,Haselnuss,Nein,,22.10.2025,Studium,DAK,Ja,Deutschland und Ausland,Nein,Nein,Asthma,Dauerhaft,Nein
+Ebru Saleh,11.10.1990,"São Paulo, Brasilien",Weiblich,Dunkelbraun,Verwitwet,Katholisch,04.10.2022,Job,Ausstehend,Nein,,Nein,Nein,Diabetes,Dauerhaft,Nein
+Khalid Saleh,25.07.2004,"Kiev, Ukraine",Männlich,Schwarz,Verwitwet,Buddhismus,26.02.2024,Sonstige,Private Versicherung,Nein,,Nein,Nein,Diabetes,6 Monate,Nein
+Ahmet Özdemir,08.05.1965,"Beirut, Libanon",Männlich,Blau,Nein,Evangelisch,09.10.2005,Studium,Barmer,Nein,,Nein,Nein,,1 Jahr,Nein
+Jun Tran,19.05.1975,"Tehran, Iran",Männlich,Schwarz,Ja,Islam,12.10.2021,Sonstige,Keine,Nein,,Nein,Nein,Depression,1 Jahr,Ja
+Diego Garcia,13.03.2004,"Lima, Peru",Männlich,Haselnuss,Ja,Hinduismus,03.01.2025,Sonstige,Barmer,Nein,,Nein,Ja,Herzerkrankung,Dauerhaft,Ja
+David Torres,05.11.2007,"Istanbul, Türkei",Männlich,Blau,Geschieden,Katholisch,10.12.2025,Asyl,BKK,Nein,,Nein,Ja,Herzerkrankung,6 Monate,Ja
+Ayana Güneş,11.04.1992,"Baghdad, Irak",Weiblich,Blau,Nein,Islam,30.10.2018,Asyl,Ausstehend,Nein,,Nein,Ja,Asthma,Bis Studienende,Nein
+Linh Kowalski,26.01.2005,"Dakar, Senegal",Weiblich,Schwarz,Nein,Christentum,17.08.2023,Studium,TK,Nein,,Nein,Nein,,3 Jahre,Ja
+Mamadou Al-Hassan,25.10.1963,"Lagos, Nigeria",Männlich,Braun,Nein,Islam,20.07.2021,Familie,Techniker Krankenkasse,Ja,Deutschland,Nein,Nein,Asthma,6 Monate,Nein
+Ming Martinez,25.02.1998,"Tehran, Iran",Männlich,Schwarz,Geschieden,,30.07.2025,Studium,Private Versicherung,Ja,Deutschland,Nein,Nein,,2 Jahre,Ja
+Amara Çetin,18.12.1982,"Kinshasa, Kongo",Weiblich,Grün,Verwitwet,Christentum,19.07.2008,Sonstige,Private Versicherung,Nein,,Nein,Ja,,Temporär,Ja
+Tatiana Çetin,11.04.1987,"Minsk, Belarus",Weiblich,Schwarz,Ja,Buddhismus,10.11.2012,Asyl,Keine,Nein,,Nein,Ja,Keine Angaben,Unbefristet,Laufend
+Nur Khalil,23.03.1982,"Moskau, Russland",Weiblich,Grau,Verwitwet,Christentum,14.12.2021,Job,Private Versicherung,Ja,Deutschland und Ausland,Nein,Nein,,Unbefristet,Laufend
+Sita Perez,12.06.1972,"Bukarest, Rumänien",Weiblich,Haselnuss,Verwitwet,Katholisch,07.10.2008,Job,BKK,Nein,,Ja,Ja,,5 Jahre,Nein
+Ricardo Kuznetsov,21.12.2003,"Jakarta, Indonesien",Männlich,Blau,Ja,Christentum,16.02.2024,Asyl,HEK,Ja,Ausland,Nein,Ja,,Unbefristet,Nein
+Dalia Hussein,08.08.2000,"Tehran, Iran",Weiblich,Braun,Ja,,06.04.2020,Asyl,AOK,Nein,,Nein,Ja,Asthma,Temporär,Ja
+Selin Liu,02.06.1972,"Tunis, Tunesien",Weiblich,Schwarz,Geschieden,Islam,09.05.1993,Job,Ausstehend,Nein,,Nein,Nein,Asthma,5 Jahre,Ja
+Yulia Traore,05.05.1984,"Mogadishu, Somalia",Weiblich,Blau,Verwitwet,Keine Angabe,02.07.2007,Familie,Barmer,Nein,,Nein,Nein,Allergien,2 Jahre,Laufend
+Ilayda Wojcik,27.06.1964,"São Paulo, Brasilien",Weiblich,Grau,Verwitwet,Katholisch,04.01.1984,Familie,DAK,Nein,,Nein,Ja,Chronische Bronchitis,Temporär,Nein
+Anastasia Aydın,01.07.2002,"Lima, Peru",Weiblich,Braun,Verwitwet,Keine Angabe,17.10.2022,Studium,Ausstehend,Nein,,Nein,Ja,Depression,Unbefristet,Nein
+Aylin Hernandez,11.10.2008,"Bogota, Kolumbien",Weiblich,Grau,Verwitwet,Orthodox,25.05.2025,Studium,Keine,Nein,,Nein,Ja,,Bis Studienende,Nein
+Dilara Sharma,08.09.1991,"Tirana, Albanien",Weiblich,Blau,Ja,Hinduismus,27.05.2016,Asyl,DAK,Nein,,Nein,Nein,,3 Jahre,Ja
+Eduardo Wojcik,03.06.1967,"Manila, Philippinen",Männlich,Haselnuss,Verwitwet,Judentum,07.09.1991,Familie,DAK,Ja,Deutschland und Ausland,Ja,Nein,,Temporär,Nein
+Amara Aslan,11.10.1967,"Manila, Philippinen",Weiblich,Haselnuss,Verwitwet,Hinduismus,22.02.1989,Asyl,Techniker Krankenkasse,Nein,,Nein,Ja,,5 Jahre,Ja
+Ilayda Öztürk,09.12.1968,"Baghdad, Irak",Weiblich,Blau,Verwitwet,Islam,12.06.2015,Studium,DAK,Nein,,Nein,Nein,,Unbefristet,Nein
+Camila Hamdan,03.09.1985,"Manila, Philippinen",Weiblich,Grau,Verwitwet,Orthodox,19.08.2007,Asyl,DAK,Nein,,Nein,Ja,Diabetes,2 Jahre,Laufend
+Mohammed Popov,05.09.1993,"Kampala, Uganda",Männlich,Braun,Ja,Judentum,02.06.2024,Job,IKK,Nein,,Nein,Nein,,1 Jahr,Nein
+Emre Liu,22.07.2006,"Tunis, Tunesien",Männlich,Schwarz,Verwitwet,Christentum,31.08.2024,Asyl,TK,Nein,,Nein,Ja,Rückenschmerzen,Temporär,Ja
+Yulia Hussein,23.11.1991,"Belgrad, Serbien",Weiblich,Schwarz,Ja,Hinduismus,01.12.2013,Sonstige,BKK,Nein,,Nein,Ja,Diabetes,1 Jahr,Ja
+Ibrahim Okafor,04.10.1996,"Shanghai, China",Männlich,Dunkelbraun,Ja,Katholisch,29.01.2023,Sonstige,Keine,Ja,Ausland,Nein,Ja,Bluthochdruck,3 Jahre,Ja
+Deniz Kamara,22.02.1958,"Hanoi, Vietnam",Männlich,Grün,Geschieden,Orthodox,10.02.1989,Sonstige,TK,Nein,,Nein,Ja,Chronische Bronchitis,Bis Studienende,Nein
+Eshe Le,02.02.1996,"Manila, Philippinen",Weiblich,Grün,Verwitwet,Katholisch,07.12.2019,Familie,TK,Ja,Deutschland und Ausland,Nein,Nein,,6 Monate,Ja
+Dmitri Nowak,09.06.1961,"Moskau, Russland",Männlich,Braun,Nein,Christentum,19.07.1995,Asyl,BKK,Ja,Deutschland und Ausland,Nein,Ja,Allergien,Dauerhaft,Laufend
+Mona Kılıç,04.10.2007,"Shanghai, China",Weiblich,Braun,Verwitwet,Hinduismus,29.09.2025,Studium,TK,Nein,,Nein,Nein,Depression,5 Jahre,Nein
+Noura Erdoğan,07.10.1968,"Amman, Jordanien",Weiblich,Blau,Verwitwet,Keine Angabe,23.10.2024,Familie,DAK,Ja,Ausland,Nein,Nein,,Temporär,Ja
+Elena Martinez,21.12.1966,"Minsk, Belarus",Weiblich,Blau,Nein,Buddhismus,11.05.1995,Sonstige,DAK,Nein,,Nein,Nein,Depression,Unbefristet,Nein
+Khalid Zhang,04.04.2002,"Damascus, Syrien",Männlich,Grün,Nein,Hinduismus,29.05.2020,Sonstige,BKK,Nein,,Nein,Nein,Depression,Temporär,Laufend
+Noura Güneş,08.05.1976,"Manila, Philippinen",Weiblich,Grün,Nein,,11.05.2003,Familie,AOK,Nein,,Nein,Ja,,6 Monate,Nein
+Hayal Kowalski,18.11.1973,"Sofia, Bulgarien",Weiblich,Grün,Verwitwet,,12.09.2011,Familie,Techniker Krankenkasse,Nein,,Nein,Nein,Herzerkrankung,5 Jahre,Ja
+Linh Nowak,11.07.1998,"Nairobi, Kenia",Weiblich,Schwarz,Ja,Judentum,11.09.2021,Job,DAK,Nein,,Nein,Nein,Bluthochdruck,Unbefristet,Ja
+Kumar Silva,09.07.1969,"Dhaka, Bangladesch",Männlich,Blau,Geschieden,Orthodox,16.11.1994,Sonstige,BKK,Nein,,Nein,Nein,Bluthochdruck,Temporär,Nein
+Katya Liu,06.09.2007,"Jakarta, Indonesien",Weiblich,Dunkelbraun,Verwitwet,Katholisch,23.09.2025,Job,Techniker Krankenkasse,Nein,,Nein,Ja,Keine Angaben,Dauerhaft,Laufend
+Anita Nkrumah,01.04.1982,"Nairobi, Kenia",Weiblich,Haselnuss,Verwitwet,Buddhismus,12.01.2005,Job,Ausstehend,Nein,,Nein,Ja,Asthma,3 Jahre,Laufend
+Ruth Silva,27.04.1988,"Mumbai, Indien",Weiblich,Grün,Nein,Keine Angabe,16.01.2021,Sonstige,Private Versicherung,Nein,,Nein,Nein,Asthma,Temporär,Nein
+Ömer Rodriguez,17.09.1979,"Kinshasa, Kongo",Männlich,Haselnuss,Verwitwet,Hinduismus,04.10.2021,Familie,HEK,Nein,,Nein,Nein,,Temporär,Ja
+Linh Aydın,25.05.1978,"Accra, Ghana",Weiblich,Grau,Verwitwet,Orthodox,07.12.2016,Studium,DAK,Nein,,Nein,Nein,,3 Jahre,Nein
+Gül Wang,06.05.2008,"Kiev, Ukraine",Weiblich,Grün,Geschieden,Hinduismus,20.12.2023,Studium,Barmer,Nein,,Nein,Ja,,Unbefristet,Nein
+Layla Singh,08.11.1998,"Nairobi, Kenia",Weiblich,Braun,Nein,,18.03.2022,Job,Techniker Krankenkasse,Nein,,Nein,Nein,,1 Jahr,Ja
+Dalia Şimşek,02.10.1972,"Ankara, Türkei",Weiblich,Blau,Verwitwet,Evangelisch,14.02.2021,Familie,Keine,Nein,,Nein,Nein,Asthma,Dauerhaft,Nein
+Deniz Diallo,16.06.1984,"Accra, Ghana",Männlich,Dunkelbraun,Nein,,26.05.2009,Studium,HEK,Nein,,Nein,Nein,,5 Jahre,Ja
+Ibrahim Sanchez,21.01.1963,"Kampala, Uganda",Männlich,Dunkelbraun,Verwitwet,,13.09.2024,Sonstige,Private Versicherung,Ja,Deutschland,Ja,Nein,Depression,Unbefristet,Nein
+Melek Tran,21.02.1958,"Manila, Philippinen",Weiblich,Grün,Nein,Islam,24.06.1978,Familie,BKK,Nein,,Nein,Nein,,Unbefristet,Laufend
+Mona Al-Mahmoud,08.08.1992,"Mogadishu, Somalia",Weiblich,Blau,Geschieden,Orthodox,11.03.2023,Asyl,TK,Nein,,Nein,Ja,,Dauerhaft,Laufend
+Olga Traore,09.09.1959,"Bukarest, Rumänien",Weiblich,Braun,Verwitwet,,28.10.1986,Sonstige,DAK,Nein,,Nein,Nein,Herzerkrankung,1 Jahr,Nein
+Aisha Mansour,01.02.1956,"Hanoi, Vietnam",Weiblich,Grau,Geschieden,Keine Angabe,17.10.2000,Job,Keine,Nein,,Nein,Ja,Allergien,Dauerhaft,Ja
+Merve Liu,20.03.1981,"Jakarta, Indonesien",Weiblich,Braun,Ja,Judentum,07.08.2004,Familie,BKK,Nein,,Nein,Nein,Bluthochdruck,Dauerhaft,Nein
+Melek Al-Rashid,18.03.1990,"Baghdad, Irak",Weiblich,Braun,Nein,Buddhismus,26.11.2015,Familie,HEK,Nein,,Nein,Ja,Rückenschmerzen,Dauerhaft,Nein
+Rania Şimşek,18.07.2007,"Kiev, Ukraine",Weiblich,Braun,Ja,,29.09.2025,Asyl,TK,Nein,,Nein,Nein,Diabetes,5 Jahre,Nein
+Fatma Şahin,02.08.1964,"Damascus, Syrien",Weiblich,Dunkelbraun,Geschieden,Judentum,05.09.2013,Studium,Ausstehend,Nein,,Nein,Nein,,3 Jahre,Nein
+Malik Sanchez,03.05.2008,"Mumbai, Indien",Männlich,Grau,Nein,Evangelisch,16.12.2024,Sonstige,Barmer,Ja,Ausland,Nein,Nein,Keine Angaben,3 Jahre,Laufend
+Dalia Aydın,20.06.1990,"Mumbai, Indien",Weiblich,Braun,Geschieden,Christentum,02.08.2025,Asyl,IKK,Nein,,Nein,Ja,Keine Angaben,2 Jahre,Laufend
+Sita Mensah,04.10.1979,"Tunis, Tunesien",Weiblich,Grau,Nein,Hinduismus,28.11.2000,Job,HEK,Nein,,Nein,Nein,Herzerkrankung,6 Monate,Laufend
+Bilal Kowalski,19.05.2000,"Shanghai, China",Männlich,Grau,Verwitwet,,27.03.2024,Studium,AOK,Nein,,Nein,Ja,Diabetes,Dauerhaft,Nein
+Ibrahim Le,21.09.1979,"Bukarest, Rumänien",Männlich,Schwarz,Ja,Orthodox,28.11.2009,Familie,IKK,Nein,,Nein,Nein,Chronische Bronchitis,Dauerhaft,Laufend
+Noura Al-Rahman,19.12.1997,"Mumbai, Indien",Weiblich,Haselnuss,Ja,Christentum,24.05.2018,Sonstige,AOK,Nein,,Nein,Nein,Asthma,5 Jahre,Nein
