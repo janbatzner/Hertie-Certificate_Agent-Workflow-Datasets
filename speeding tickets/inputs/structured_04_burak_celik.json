@@ -1,0 +1,56 @@
+{
+  "violation_record": {
+    "timestamp": "2025-12-31T18:53:28",
+    "reference_number": "BV-2025-CEL-19874",
+    "status": "closed",
+    "payment_status": "paid"
+  },
+  "location": {
+    "description": "B3 Ortsdurchfahrt Celle",
+    "road_type": "Bundesstraße",
+    "municipality": "Celle",
+    "federal_state": "Niedersachsen"
+  },
+  "speed_data": {
+    "speed_limit_kmh": 50,
+    "measured_speed_kmh": 67,
+    "excess_speed_kmh": 17
+  },
+  "vehicle": {
+    "license_plate": "K-BW 4242",
+    "make": "Renault",
+    "model": "Clio",
+    "type": "Sportwagen"
+  },
+  "registered_owner": {
+    "name": "Burak Çelik",
+    "date_of_birth": "1970-05-08",
+    "gender": "male",
+    "address": {
+      "street": "Bergstraße 53",
+      "postal_code": "40210",
+      "city": "Düsseldorf"
+    }
+  },
+  "driver": {
+    "name": null,
+    "date_of_birth": null,
+    "gender": null,
+    "identified": false
+  },
+  "conditions": {
+    "weather": "light_rain",
+    "visibility": "good",
+    "traffic_density": "medium"
+  },
+  "penalty": {
+    "fine_eur": 80,
+    "points": 0,
+    "driving_ban_months": 0
+  },
+  "appeal": {
+    "filed": false,
+    "status": null
+  }
+}
+

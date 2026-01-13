@@ -1,0 +1,44 @@
+{
+  "application_type": "residence_permit",
+  "submission_date": "2006-03-03",
+  "application_reference": "RP-2006-MOS-00891",
+  "personal_information": {
+    "full_name": "Maria Torres",
+    "date_of_birth": "1985-02-23",
+    "place_of_birth": {
+      "city": "Moskau",
+      "country": "Russia"
+    },
+    "gender": "female",
+    "eye_color": "green",
+    "marital_status": "single",
+    "religion": "christianity"
+  },
+  "entry_details": {
+    "first_entry_date": "2006-03-03",
+    "purpose_of_stay": "asylum",
+    "intended_duration": "3_years"
+  },
+  "health_insurance": {
+    "provider": null,
+    "policy_number": null,
+    "status": "pending"
+  },
+  "legal_history": {
+    "criminal_record": true,
+    "criminal_record_location": "germany_and_abroad",
+    "previous_deportation": false
+  },
+  "social_benefits": {
+    "receiving_benefits": true
+  },
+  "health_status": {
+    "has_medical_conditions": false,
+    "conditions": []
+  },
+  "integration": {
+    "integration_course_participation": true,
+    "course_status": "enrolled"
+  }
+}
+

@@ -1,0 +1,44 @@
+{
+  "application_type": "residence_permit",
+  "submission_date": "2024-04-18",
+  "application_reference": "RP-2024-SH-00184",
+  "personal_information": {
+    "full_name": "Laila Wang",
+    "date_of_birth": "1999-10-02",
+    "place_of_birth": {
+      "city": "Shanghai",
+      "country": "China"
+    },
+    "gender": "female",
+    "eye_color": "gray",
+    "marital_status": "single",
+    "religion": "not_specified"
+  },
+  "entry_details": {
+    "first_entry_date": "2024-04-18",
+    "purpose_of_stay": "family",
+    "intended_duration": "5_years"
+  },
+  "health_insurance": {
+    "provider": "IKK",
+    "policy_number": "IKK-2024-W-7784512",
+    "status": "active"
+  },
+  "legal_history": {
+    "criminal_record": false,
+    "criminal_record_location": null,
+    "previous_deportation": false
+  },
+  "social_benefits": {
+    "receiving_benefits": false
+  },
+  "health_status": {
+    "has_medical_conditions": true,
+    "conditions": ["Depression"]
+  },
+  "integration": {
+    "integration_course_participation": true,
+    "course_status": "enrolled"
+  }
+}
+

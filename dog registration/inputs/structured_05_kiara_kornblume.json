@@ -1,0 +1,46 @@
+{
+  "submission": {
+    "timestamp": "2025-12-29T17:10:33",
+    "form_version": "2.1",
+    "locale": "de-DE"
+  },
+  "contact": {
+    "full_name": "Kiara Kornblume",
+    "email": "kiara.blume@gmx.de",
+    "registration_address": {
+      "street": "Wichtelweg 51",
+      "postal_code": "45127",
+      "city": "Essen",
+      "country": "Germany"
+    }
+  },
+  "dog": {
+    "breed": "Französische Bulldogge",
+    "size_cm": {
+      "length": 50,
+      "height": 28
+    },
+    "weight_kg": 11,
+    "date_of_birth": "2022-11-28",
+    "is_dangerous_category": false
+  },
+  "insurance": {
+    "has_insurance": true,
+    "provider": null,
+    "policy_details": null
+  },
+  "vaccines": {
+    "status": "complete",
+    "records": []
+  },
+  "attachments": {
+    "dog_photo": null,
+    "fence_photo": null
+  },
+  "housing": {
+    "type": null,
+    "fence_description": null
+  },
+  "additional_remarks": null
+}
+

@@ -1,0 +1,51 @@
+{
+  "submission": {
+    "timestamp": "2025-12-29T16:54:36",
+    "form_version": "2.1",
+    "locale": "de-DE"
+  },
+  "contact": {
+    "full_name": "Lena Leander",
+    "email": "lena.leander@yahoo.com",
+    "registration_address": {
+      "street": "Zur Wildbielde 287",
+      "postal_code": "40210",
+      "city": "Düsseldorf",
+      "country": "Germany"
+    }
+  },
+  "dog": {
+    "breed": "Bullterrier",
+    "size_cm": {
+      "length": 70,
+      "height": 45
+    },
+    "weight_kg": 26,
+    "date_of_birth": "2019-08-22",
+    "is_dangerous_category": true
+  },
+  "insurance": {
+    "has_insurance": true,
+    "provider": "AGILA",
+    "policy_details": "AGILA Hundehaftpflicht"
+  },
+  "vaccines": {
+    "status": "complete",
+    "records": [
+      "Staupe",
+      "Parvovirose",
+      "Hepatitis",
+      "Leptospirose"
+    ]
+  },
+  "attachments": {
+    "dog_photo": null,
+    "fence_photo": null
+  },
+  "housing": {
+    "type": null,
+    "fence_description": null
+  },
+  "additional_remarks": null
+}
+

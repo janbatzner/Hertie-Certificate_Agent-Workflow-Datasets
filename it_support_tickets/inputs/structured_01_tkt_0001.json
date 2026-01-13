@@ -1,0 +1,39 @@
+{
+  "ticket": {
+    "id": "TKT-2024-0001",
+    "timestamp": "2024-01-15T08:23:14",
+    "priority": "high",
+    "category": "hardware",
+    "status": "closed"
+  },
+  "submitter": {
+    "name": "Maria Schmidt",
+    "email": "m.schmidt@stadtverwaltung.de",
+    "phone": "+49 30 9026 1234",
+    "department": "Bürgeramt",
+    "location": "Rathaus Berlin-Mitte"
+  },
+  "issue": {
+    "title": "Desktop computer won't start",
+    "description": "Computer will not power on at all. Pressed power button multiple times with no response. Monitor shows no signal. Need urgent help as citizen appointments scheduled today.",
+    "technical_details": "No POST beep. No fan noise. Power LED on motherboard is off. Checked power cable connection - secure. Tried different power outlet - same issue."
+  },
+  "environment": {
+    "operating_system": "Windows 10 Pro",
+    "affected_software": "Microsoft Office 2019",
+    "hardware_type": "Dell OptiPlex 7080",
+    "ip_address": "192.168.10.45"
+  },
+  "assignment": {
+    "technician": "Thomas Weber",
+    "time_to_first_response_hours": 0.5,
+    "resolution_time_hours": 2.3,
+    "escalated": false,
+    "recurring_issue": false
+  },
+  "resolution": {
+    "user_satisfaction_rating": 5,
+    "notes": "Replaced faulty power supply unit. System now boots normally. Verified all services running."
+  }
+}
+

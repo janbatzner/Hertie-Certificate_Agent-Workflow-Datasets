@@ -1,0 +1,46 @@
+{
+  "submission": {
+    "timestamp": "2025-12-29T17:07:12",
+    "form_version": "2.1",
+    "locale": "de-DE"
+  },
+  "contact": {
+    "full_name": "Tina Turner",
+    "email": "tinatinatina@gmx.net",
+    "registration_address": {
+      "street": "Hummelgasse 41",
+      "postal_code": "20095",
+      "city": "Hamburg",
+      "country": "Germany"
+    }
+  },
+  "dog": {
+    "breed": "Cavalier King Charles Spaniel",
+    "size_cm": {
+      "length": 45,
+      "height": 30
+    },
+    "weight_kg": 7,
+    "date_of_birth": "2021-06-05",
+    "is_dangerous_category": false
+  },
+  "insurance": {
+    "has_insurance": true,
+    "provider": null,
+    "policy_details": null
+  },
+  "vaccines": {
+    "status": "complete",
+    "records": []
+  },
+  "attachments": {
+    "dog_photo": null,
+    "fence_photo": null
+  },
+  "housing": {
+    "type": null,
+    "fence_description": null
+  },
+  "additional_remarks": null
+}
+

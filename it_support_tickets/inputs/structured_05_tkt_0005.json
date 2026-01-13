@@ -1,0 +1,39 @@
+{
+  "ticket": {
+    "id": "TKT-2024-0005",
+    "timestamp": "2024-01-15T13:34:12",
+    "priority": "medium",
+    "category": "software",
+    "status": "open"
+  },
+  "submitter": {
+    "name": "Anna Hoffmann",
+    "email": "a.hoffmann@stadtverwaltung.de",
+    "phone": "+49 30 9026 1890",
+    "department": "Standesamt",
+    "location": "Standesamt Spandau"
+  },
+  "issue": {
+    "title": "Specialized registry software freezing",
+    "description": "The civil registry application (ZivReg Pro) freezes when searching for records older than 2010. Have to force close and restart. Search for recent records works fine.",
+    "technical_details": "Application becomes unresponsive. CPU usage spikes to 100%. Memory usage normal. Database connection remains active. Log shows query timeout errors after 30 seconds. Database size: 850GB."
+  },
+  "environment": {
+    "operating_system": "Windows 10 Pro",
+    "affected_software": "ZivReg Pro v4.2",
+    "hardware_type": "Dell Precision 3640",
+    "ip_address": "192.168.10.203"
+  },
+  "assignment": {
+    "technician": "Sarah Klein",
+    "time_to_first_response_hours": 3.5,
+    "resolution_time_hours": null,
+    "escalated": false,
+    "recurring_issue": true
+  },
+  "resolution": {
+    "user_satisfaction_rating": null,
+    "notes": "Database index corruption suspected. Coordinating with database administrator for maintenance window."
+  }
+}
+

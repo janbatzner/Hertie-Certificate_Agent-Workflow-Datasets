@@ -1,0 +1,56 @@
+{
+  "violation_record": {
+    "timestamp": "2025-03-08T18:58:48",
+    "reference_number": "BV-2025-HAN-03421",
+    "status": "appeal_pending",
+    "payment_status": "pending"
+  },
+  "location": {
+    "description": "A7 km 89, Richtung Hannover",
+    "road_type": "Autobahn",
+    "municipality": "Hannover",
+    "federal_state": "Niedersachsen"
+  },
+  "speed_data": {
+    "speed_limit_kmh": 130,
+    "measured_speed_kmh": 181,
+    "excess_speed_kmh": 51
+  },
+  "vehicle": {
+    "license_plate": "DD-RR 1969",
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "type": "SUV"
+  },
+  "registered_owner": {
+    "name": "Ahmet Saleh",
+    "date_of_birth": "1982-10-11",
+    "gender": "male",
+    "address": {
+      "street": "Kantstraße 96",
+      "postal_code": "50667",
+      "city": "Köln"
+    }
+  },
+  "driver": {
+    "name": null,
+    "date_of_birth": null,
+    "gender": null,
+    "identified": false
+  },
+  "conditions": {
+    "weather": "snow",
+    "visibility": "medium",
+    "traffic_density": "very_high"
+  },
+  "penalty": {
+    "fine_eur": 236,
+    "points": 2,
+    "driving_ban_months": 1
+  },
+  "appeal": {
+    "filed": true,
+    "status": "in_review"
+  }
+}
+

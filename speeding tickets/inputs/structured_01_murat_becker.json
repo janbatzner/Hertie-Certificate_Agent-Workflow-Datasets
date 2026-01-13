@@ -1,0 +1,56 @@
+{
+  "violation_record": {
+    "timestamp": "2025-05-27T02:37:28",
+    "reference_number": "BV-2025-CEL-08741",
+    "status": "in_progress",
+    "payment_status": "pending"
+  },
+  "location": {
+    "description": "B3 Ortsdurchfahrt Celle",
+    "road_type": "Bundesstraße",
+    "municipality": "Celle",
+    "federal_state": "Niedersachsen"
+  },
+  "speed_data": {
+    "speed_limit_kmh": 30,
+    "measured_speed_kmh": 69,
+    "excess_speed_kmh": 39
+  },
+  "vehicle": {
+    "license_plate": "M-U 5073",
+    "make": "Fiat",
+    "model": "Panda",
+    "type": "SUV"
+  },
+  "registered_owner": {
+    "name": "Murat Becker",
+    "date_of_birth": "1968-10-08",
+    "gender": "male",
+    "address": {
+      "street": "Bahnhofstraße 150",
+      "postal_code": "80331",
+      "city": "München"
+    }
+  },
+  "driver": {
+    "name": null,
+    "date_of_birth": null,
+    "gender": null,
+    "identified": false
+  },
+  "conditions": {
+    "weather": "rain",
+    "visibility": "poor",
+    "traffic_density": "medium"
+  },
+  "penalty": {
+    "fine_eur": 140,
+    "points": 1,
+    "driving_ban_months": 0
+  },
+  "appeal": {
+    "filed": false,
+    "status": null
+  }
+}
+

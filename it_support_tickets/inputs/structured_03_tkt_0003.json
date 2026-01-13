@@ -1,0 +1,39 @@
+{
+  "ticket": {
+    "id": "TKT-2024-0003",
+    "timestamp": "2024-01-15T10:15:38",
+    "priority": "low",
+    "category": "access",
+    "status": "closed"
+  },
+  "submitter": {
+    "name": "Petra Wagner",
+    "email": "p.wagner@stadtverwaltung.de",
+    "phone": "+49 30 9026 1789",
+    "department": "Sozialamt",
+    "location": "Sozialamt Reinickendorf"
+  },
+  "issue": {
+    "title": "Cannot access shared drive",
+    "description": "I cannot access the S: drive where all our case files are stored. Getting error 'Network path not found'. Colleagues in same office can access it fine.",
+    "technical_details": "Error code: 0x80070035. Drive mapping shows disconnected red X. Can ping file server successfully (10.1.5.20). Other network resources accessible. VPN not in use - on site."
+  },
+  "environment": {
+    "operating_system": "Windows 10 Pro",
+    "affected_software": "Windows File Explorer",
+    "hardware_type": "HP EliteDesk 800 G5",
+    "ip_address": "192.168.10.112"
+  },
+  "assignment": {
+    "technician": "Michael Koch",
+    "time_to_first_response_hours": 2.1,
+    "resolution_time_hours": 4.5,
+    "escalated": false,
+    "recurring_issue": false
+  },
+  "resolution": {
+    "user_satisfaction_rating": 4,
+    "notes": "Drive mapping corrupted. Removed and remapped S: drive to \\\\fileserver01\\social_services. Access restored."
+  }
+}
+

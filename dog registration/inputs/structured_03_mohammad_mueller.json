@@ -1,0 +1,46 @@
+{
+  "submission": {
+    "timestamp": "2025-12-29T17:00:01",
+    "form_version": "2.1",
+    "locale": "de-DE"
+  },
+  "contact": {
+    "full_name": "Mohammad Müller",
+    "email": "m.muller87@gmail.com",
+    "registration_address": {
+      "street": "Rotweingasse 120",
+      "postal_code": "24103",
+      "city": "Kiel",
+      "country": "Germany"
+    }
+  },
+  "dog": {
+    "breed": "Rottweiler",
+    "size_cm": {
+      "length": 95,
+      "height": 63
+    },
+    "weight_kg": 48,
+    "date_of_birth": "2018-11-10",
+    "is_dangerous_category": true
+  },
+  "insurance": {
+    "has_insurance": false,
+    "provider": null,
+    "policy_details": null
+  },
+  "vaccines": {
+    "status": "unclear",
+    "records": []
+  },
+  "attachments": {
+    "dog_photo": null,
+    "fence_photo": null
+  },
+  "housing": {
+    "type": "house",
+    "fence_description": "Die Kinder passen auf, der Hund ist sehr kinderlieb."
+  },
+  "additional_remarks": "Keine Prüfung notwendig."
+}
+

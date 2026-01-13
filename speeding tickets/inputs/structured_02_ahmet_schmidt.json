@@ -1,0 +1,56 @@
+{
+  "violation_record": {
+    "timestamp": "2025-12-22T11:41:54",
+    "reference_number": "BV-2025-GAP-14892",
+    "status": "in_progress",
+    "payment_status": "pending"
+  },
+  "location": {
+    "description": "A95 km 23, Richtung Garmisch",
+    "road_type": "Autobahn",
+    "municipality": "Garmisch-Partenkirchen",
+    "federal_state": "Bayern"
+  },
+  "speed_data": {
+    "speed_limit_kmh": 100,
+    "measured_speed_kmh": 129,
+    "excess_speed_kmh": 29
+  },
+  "vehicle": {
+    "license_plate": "D-P 7645",
+    "make": "Opel",
+    "model": "Grandland",
+    "type": "Kombi"
+  },
+  "registered_owner": {
+    "name": "Ahmet Schmidt",
+    "date_of_birth": "1957-08-03",
+    "gender": "male",
+    "address": {
+      "street": "Lindenstraße 169",
+      "postal_code": "50667",
+      "city": "Köln"
+    }
+  },
+  "driver": {
+    "name": null,
+    "date_of_birth": null,
+    "gender": null,
+    "identified": false
+  },
+  "conditions": {
+    "weather": "cloudy",
+    "visibility": "medium",
+    "traffic_density": "medium"
+  },
+  "penalty": {
+    "fine_eur": 100,
+    "points": 1,
+    "driving_ban_months": 0
+  },
+  "appeal": {
+    "filed": false,
+    "status": null
+  }
+}
+

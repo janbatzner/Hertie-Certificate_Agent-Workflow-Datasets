@@ -1,0 +1,39 @@
+{
+  "ticket": {
+    "id": "TKT-2024-0002",
+    "timestamp": "2024-01-15T09:47:22",
+    "priority": "medium",
+    "category": "software",
+    "status": "in_progress"
+  },
+  "submitter": {
+    "name": "Hans Müller",
+    "email": "h.mueller@stadtverwaltung.de",
+    "phone": "+49 30 9026 1456",
+    "department": "Finanzamt",
+    "location": "Finanzamt Wedding"
+  },
+  "issue": {
+    "title": "Excel crashes when opening large files",
+    "description": "Excel 2019 crashes immediately when trying to open files larger than 50MB. Error message: 'Excel has stopped working'. Smaller files open fine. This affects my monthly budget reports.",
+    "technical_details": "Crash occurs during file load. Event Viewer shows Application Error Event ID 1000. Faulting module: EXCEL.EXE. Exception code: 0xc0000005. Tried safe mode - same issue."
+  },
+  "environment": {
+    "operating_system": "Windows 10 Pro",
+    "affected_software": "Microsoft Excel 2019",
+    "hardware_type": "Lenovo ThinkCentre M720",
+    "ip_address": "192.168.10.78"
+  },
+  "assignment": {
+    "technician": "Sarah Klein",
+    "time_to_first_response_hours": 1.2,
+    "resolution_time_hours": null,
+    "escalated": false,
+    "recurring_issue": true
+  },
+  "resolution": {
+    "user_satisfaction_rating": null,
+    "notes": "Attempting repair installation of Office. User has large external data connections causing memory issues."
+  }
+}
+
