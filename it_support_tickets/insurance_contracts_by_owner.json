@@ -1,0 +1,207 @@
+{
+  "actor": {
+    "dataContractSpecification": "1.1.0",
+    "id": "urn:datacontract:team:actor:api",
+    "info": {
+      "title": "Actor API",
+      "version": "0.0.1",
+      "status": "active",
+      "owner": "actor",
+      "contact": {
+        "email": "mail@example.com"
+      }
+    },
+    "models": {
+      "actor": {
+        "type": "table",
+        "fields": {
+          "online account": {
+            "type": "string",
+            "description": "id, activity",
+            "pii": true
+          },
+          "payment methods": {
+            "type": "string",
+            "sensitive": true
+          },
+          "payment information": {
+            "type": "string"
+          },
+          "contact info": {
+            "type": "string",
+            "pii": true
+          },
+          "link to contracts": {
+            "type": "string",
+            "description": "current, past"
+          },
+          "data usage consent": {
+            "type": "string",
+            "description": "marketing, data sharing"
+          }
+        }
+      }
+    }
+  },
+  "contracts": {
+    "dataContractSpecification": "1.1.0",
+    "id": "urn:datacontract:team:contracts:api",
+    "info": {
+      "title": "Life Insurance Contracts API",
+      "version": "0.0.1",
+      "status": "active",
+      "owner": "contracts",
+      "contact": {
+        "email": "mail@example.com"
+      }
+    },
+    "models": {
+      "life_insurance_contracts": {
+        "type": "table",
+        "fields": {
+          "policyholder name": {
+            "type": "string",
+            "pii": true
+          },
+          "policyholder base data": {
+            "type": "string",
+            "pii": true,
+            "description": "age, weight, smoking"
+          },
+          "prior medical record": {
+            "type": "string",
+            "pii": true
+          },
+          "sum insured": {
+            "type": "string",
+            "pii": true
+          },
+          "premiums": {
+            "type": "string",
+            "sensitive": true
+          },
+          "agent": {
+            "type": "string"
+          },
+          "agent commission": {
+            "type": "int",
+            "classification": "trade secret"
+          },
+          "beneficiaries": {
+            "type": "string",
+            "pii": true
+          }
+        }
+      }
+    }
+  },
+  "marketing": {
+    "dataContractSpecification": "1.1.0",
+    "id": "urn:datacontract:team:marketing:api",
+    "info": {
+      "title": "Marketing Campaigns api",
+      "version": "0.0.1",
+      "owner": "marketing",
+      "contact": {
+        "name": "u2fV7w0UsRoQeEPEKW2EDDm",
+        "email": "mail@example.com"
+      }
+    },
+    "models": {
+      "marketing_campaigns_api": {
+        "type": "table",
+        "fields": {
+          "start date": {
+            "type": "date"
+          },
+          "end date": {
+            "type": "date"
+          },
+          "target customer profile": {
+            "type": "string"
+          },
+          "campain information": {
+            "type": "string"
+          },
+          "performance": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "underwriting": {
+    "dataContractSpecification": "1.1.0",
+    "id": "urn:datacontract:team:underwriting:api",
+    "info": {
+      "title": "Underwriting Life Insurance api",
+      "version": "0.0.1",
+      "owner": "underwriting",
+      "contact": {
+        "name": "u2fV7w0UsRoQeEPEKW2EDDm",
+        "email": "mail@example.com"
+      }
+    },
+    "models": {
+      "underwriting_life_insurance_api": {
+        "type": "table",
+        "fields": {
+          "health risk assessment": {
+            "type": "string",
+            "sensitive": true
+          },
+          "creditworthiness": {
+            "type": "string",
+            "sensitive": true
+          },
+          "exclusive third-party data": {
+            "type": "string",
+            "sensitive": true
+          },
+          "public risk data": {
+            "type": "string"
+          },
+          "public mortality models": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "claims-benefit": {
+    "dataContractSpecification": "1.1.0",
+    "id": "urn:datacontract:team:claims--benefit:api",
+    "info": {
+      "title": "Benefit api",
+      "version": "0.0.1",
+      "owner": "claims-benefit",
+      "contact": {
+        "name": "u2fV7w0UsRoQeEPEKW2EDDm",
+        "email": "mail@example.com"
+      }
+    },
+    "models": {
+      "benefit": {
+        "type": "table",
+        "fields": {
+          "beneficiaries": {
+            "type": "string",
+            "pii": true
+          },
+          "date": {
+            "type": "date"
+          },
+          "reason": {
+            "type": "string",
+            "description": "death, retirement, disability",
+            "pii": true
+          },
+          "payment information": {
+            "description": "IBAN, amount, type",
+            "pii": true
+          }
+        }
+      }
+    }
+  }
+}
